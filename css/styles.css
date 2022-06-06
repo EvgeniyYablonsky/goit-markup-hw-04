@@ -29,8 +29,7 @@ list-style: none;
     margin: 0 auto;
 }
 .conteiner-contacts {
-    width: 1200px;
-    height: 252px;
+    width: 1600px;
     margin: 0 auto;
     padding-left: 15px;
     padding-right: 15px;
@@ -287,11 +286,9 @@ list-style: none;
     text-decoration: none;
     justify-content: center;
     align-items: center;
-  width: 270px;
+    width: 270px;
     background-color: #F5F4FA;
     border-radius: 4px;
-
-
 }
 .button-icon:hover,
 .button-icon:focus {
@@ -302,6 +299,18 @@ list-style: none;
     background-color: tomato;
     margin-right: 10px;
 
+}
+.button-icon2 {
+    display: inline-flex;
+    margin-right: 30px;
+    text-decoration: none;
+    align-items: center;
+    text-align: center;
+    width: 170px;
+    height: 92px;
+    background-color: #E5E5E5;
+    border: 1px solid #AFB1B8;
+    border-radius: 4px;
 }
 
 .hero-btn:hover {
