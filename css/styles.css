@@ -25,7 +25,7 @@ list-style: none;
     
 }
 .conteiner-people {
-    width: 1200px;
+    width: 1600px;
     margin: 0 auto;
 }
 .conteiner-contacts {
@@ -475,6 +475,7 @@ list-style: none;
 }
 .about-us {
     background-color: #F5F4FA;
+    height: 708px;
 }
 .contacts {
     background-color: #2F303A;
