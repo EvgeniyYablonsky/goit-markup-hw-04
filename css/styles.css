@@ -304,8 +304,7 @@ list-style: none;
     background-color: #F5F4FA;
     border-radius: 4px;
 }
-.button-icon:hover,
-.button-icon:focus {
+.button-icon2:hover .button-icon2:focus {
     color: #2196F3;
 
 }
