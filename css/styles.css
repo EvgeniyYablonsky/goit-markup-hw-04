@@ -317,6 +317,7 @@ list-style: none;
     display: inline-flex;
     margin-right: 30px;
     text-decoration: none;
+    justify-content: space-around;
     align-items: center;
     text-align: center;
     width: 170px;
