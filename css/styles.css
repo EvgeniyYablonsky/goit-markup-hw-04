@@ -256,12 +256,12 @@ list-style: none;
     margin-right: 0;
 }
 .soc-link {
-    width:  100%;
+    width: 100%;
     height: 100%;
-    background-color:#FFFFFF
+    background-color:#FFFFFF;
     border-radius: 50%;
     display: block;
-    align-items:center;
+    align-items: center;
     justify-content: center;
 }
 .soc-icon {
