@@ -264,9 +264,7 @@ list-style: none;
     align-items: center;
     justify-content: center;
 }
-.soc-icon {
-    fill: #FFFFFF;
-}
+
 
 .soc-icon1:hover  {
     color: var(---second-btn-color);
