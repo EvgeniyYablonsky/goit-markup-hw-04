@@ -258,9 +258,9 @@ list-style: none;
 .soc-link {
     width: 100%;
     height: 100%;
-    background-color:#FFFFFF;
+    background-color:#212121
     border-radius: 50%;
-    display: block;
+    display: flex;
     align-items: center;
     justify-content: center;
 }
@@ -309,7 +309,7 @@ list-style: none;
 
 }
 .button-icon2 {
-    display: inline-flex;
+    display: flex;
     margin-right: 30px;
     text-decoration: none;
     align-items: center;
