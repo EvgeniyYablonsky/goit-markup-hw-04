@@ -300,7 +300,7 @@ list-style: none;
 }
 .button-icon:hover,
 .button-icon:focus {
-    background-color: #fff;
+    background-color: #FFFFFF;
 
 }
 .button-icon>.icon {
@@ -309,7 +309,7 @@ list-style: none;
 
 }
 .button-icon2 {
-    display: flex;
+    display: inline-flex;
     margin-right: 30px;
     text-decoration: none;
     align-items: center;
