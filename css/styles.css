@@ -306,11 +306,11 @@ list-style: none;
 }
 .button-icon:hover,
 .button-icon:focus {
-    
+    color: #2196F3;
 
 }
 .button-icon>.icon {
-    background-color: tomato;
+    background-color: #FFFFFF;
     margin-right: 10px;
 
 }
