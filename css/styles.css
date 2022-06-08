@@ -274,11 +274,11 @@ list-style: none;
     justify-content: center;
 }
 
-.soc-icon1:hover  {
-    color: var(---second-btn-color);
+.soc-icon1:hover {
+    color: #2196F3;
 }
 .soc-icon1:focus {
-    color: var(---second-btn-color);
+    color: #2196F3;
 }
 .hero-btn {
     background-color: var(---second-btn-color);
