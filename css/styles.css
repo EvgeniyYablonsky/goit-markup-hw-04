@@ -130,7 +130,7 @@ list-style: none;
 }
 .header-item :not(:last-child) 
 {
-    margin-right: 50px;
+margin-right: 5px;
 }
 .hero-item :not(:last-child)  {
 
