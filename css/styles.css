@@ -291,6 +291,7 @@ list-style: none;
     height: 120px;
     background-color: #F5F4FA;
     border-radius: 4px;
+    margin-bottom: 30px;
 }
 .button-icon2:hover .button-icon2:focus {
     color: #2196F3;
