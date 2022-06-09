@@ -147,6 +147,9 @@ margin-right: 5px;
 .auth-nav:hover {
     color: #2196F3;
 }
+.soc-icon:hover {
+fill:#2196F3;
+}
 
 .header-contact {
     padding-top: 32px;
