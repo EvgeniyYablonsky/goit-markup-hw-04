@@ -299,10 +299,7 @@ list-style: none;
     border-radius: 4px;
     margin-bottom: 30px;
 }
-.button-icon2:hover .button-icon2:focus {
-    color: #2196F3;
 
-}
 .button-icon>.icon {
     background-color: #F5F4FA;
     margin-right: 10px;
