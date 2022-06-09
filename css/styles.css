@@ -274,10 +274,10 @@ list-style: none;
 }
 
 .soc-link:hover {
-    background-color: var(---second-btn-color)
+    background-color: var(---second-btn-color);
 }
 .soc-link:focus {
-    background-color: var(---second-btn-color)
+    background-color: var(---second-btn-color);
 }
 .hero-btn {
     background-color: var(---second-btn-color);
