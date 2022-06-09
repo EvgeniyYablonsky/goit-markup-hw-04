@@ -269,10 +269,10 @@ list-style: none;
 }
 
 .soc-link:hover {
-    color: #2196F3;
+    background-color: var(---second-btn-color);
 }
 .soc-link:focus {
-    color: #2196F3;
+    background-color: var(---second-btn-color);
 }
 .hero-btn {
     background-color: var(---second-btn-color);
@@ -319,6 +319,9 @@ list-style: none;
     border-radius: 4px;
 }
 .button-icon2:hover {
+    background-color: #E5E5E5;
+}
+.button-icon2:focus {
     background-color: #E5E5E5;
 }
 
