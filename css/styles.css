@@ -313,7 +313,7 @@ margin-right: 5px;
     margin-right: 10px;
 
 }
-.button-icon2 {
+.button-icon-client {
     display: inline-flex;
     margin-right: 30px;
     text-decoration: none;
@@ -326,13 +326,9 @@ margin-right: 5px;
     border: 1px solid #AFB1B8;
     border-radius: 4px;
 }
-.button-icon2:hover {
+.button-icon-client {
     background-color: #E5E5E5;
 }
-.button-icon2:hover {
-    fill: var(---second-btn-color);
-}
-
 
 .hero-btn:hover {
     background-color: #188CE8;
