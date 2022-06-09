@@ -59,8 +59,6 @@ list-style: none;
     display:inline-block;
 
 }
-
-
 .menu {
     font-family: Roboto;
     font-style: normal;
@@ -86,9 +84,7 @@ list-style: none;
     letter-spacing: 0.02em;
     color: var(---second-btn-color);
 }
-.header-contact {
-    display: inline-flexbox;
-}
+
 .header-contacts  {
     padding-top: 32px;
     padding-bottom: 32px;
@@ -118,7 +114,8 @@ list-style: none;
     align-items: center;
 }
 .header {
-    border-bottom: 1px solid #ECECEC; ;
+    border-bottom: 1px solid #ECECEC; 
+    display: flex;
 }
 .header-list {
     display: flex;
