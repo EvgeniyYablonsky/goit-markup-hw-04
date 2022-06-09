@@ -321,9 +321,8 @@ list-style: none;
 .button-icon2:hover {
     background-color: #E5E5E5;
 }
-.button-icon2:focus {
-    background-color: #E5E5E5;
-}
+
+
 
 .hero-btn:hover {
     background-color: #188CE8;
