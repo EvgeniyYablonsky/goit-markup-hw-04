@@ -329,9 +329,10 @@ margin-right: 5px;
 .button-icon2:hover {
     background-color: #E5E5E5;
 }
-.soc-icon1 {
-fill: #2196F3;
+.button-icon2:hover {
+    fill: var(---second-btn-color);
 }
+
 
 .hero-btn:hover {
     background-color: #188CE8;
