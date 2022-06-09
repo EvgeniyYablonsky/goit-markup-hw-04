@@ -100,7 +100,12 @@ list-style: none;
 }
 .header-link:focus {
     color: var(---second-btn-color);
-
+}
+.header-contact:hover {
+    color: var(---second-btn-color);
+}
+.header-contact:focus {
+    color: var(---second-btn-color);
 }
 .main-header-nav {
     width: 1200px;
@@ -312,11 +317,17 @@ list-style: none;
     text-align: center;
     width: 170px;
     height: 92px;
-    background-color: #E5E5E5;
+    background-color: #FFFFFF;
     border: 1px solid #AFB1B8;
     border-radius: 4px;
 }
+.button-icon2:hover {
+    color: #E5E5E5;
+}
 
+.button-icon2:focus {
+    color: #E5E5E5;
+}
 .hero-btn:hover {
     background-color: #188CE8;
 }
@@ -356,6 +367,7 @@ list-style: none;
 .about-work {
     padding: 0 auto;
     width: calc (100%/3-30px);
+    justify-content: center;
 }
 .card-set {
     font-family: Roboto;
