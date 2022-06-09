@@ -242,7 +242,7 @@ margin-right: 5px;
 
 }
 .soc-list  {
-    display: flex;
+    display: inline-flex;
 }
 .soc-item {
     width: 44px;
