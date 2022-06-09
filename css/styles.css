@@ -313,7 +313,7 @@ margin-right: 5px;
     margin-right: 10px;
 
 }
-.button-icon-client {
+.button-icon2 {
     display: inline-flex;
     margin-right: 30px;
     text-decoration: none;
@@ -326,7 +326,7 @@ margin-right: 5px;
     border: 1px solid #AFB1B8;
     border-radius: 4px;
 }
-.button-icon-client {
+.button-icon2:hover {
     background-color: #E5E5E5;
 }
 
