@@ -144,6 +144,9 @@ margin-right: 5px;
     display: flex;
     margin-left: auto;
 }
+.auth-nav:hover {
+    color: #2196F3;
+}
 
 .header-contact {
     padding-top: 32px;
@@ -383,6 +386,10 @@ margin-right: 5px;
     margin-top: 0;
 
 }
+.card:hover {
+    background-color: #EEEEEE;
+}
+
 
 .about2-link {
     flex-basis: calc (100%/3-30px);
@@ -467,6 +474,7 @@ margin-right: 5px;
         letter-spacing: 0.06em;
         color: var(---main-btn-color);
         margin-bottom: 4px;
+        margin-top: 0;
 }
 .button-all {
     font-family: Roboto; 
