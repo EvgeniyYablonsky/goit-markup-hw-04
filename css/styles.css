@@ -116,6 +116,8 @@ list-style: none;
 .header {
     border-bottom: 1px solid #ECECEC; 
     display: flex;
+
+
 }
 .header-list {
     display: flex;
@@ -129,6 +131,10 @@ list-style: none;
     margin-left: 0;
 
 }
+.soc-icon {
+    margin-right: 10px;
+    align-items: center; 
+}
 
 .hero-item :not(:last-child)  {
     margin-right: 30px;
@@ -140,13 +146,16 @@ list-style: none;
 .auth-nav {
     display: inline-flex;
     justify-content: center;
+    align-items: center;
     margin-left: auto;
 }
 .auth-nav:hover {
-    color: #2196F3;
+color: #2196F3;
 }
+
 .soc-icon:hover {
-fill:#2196F3;
+    background-color:#2196F3;
+    
 }
 
 .header-contact {
@@ -169,9 +178,8 @@ fill:#2196F3;
     line-height: 1.14;
     letter-spacing: 0.02em;
     color: var(---main-title-color)
-    
+   
 }
-
 .current1 {
     color: var(---second-btn-color);
     text-decoration: none;
