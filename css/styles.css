@@ -129,10 +129,7 @@ list-style: none;
     margin-left: 0;
 
 }
-.header-item :not(:last-child) 
-{
-margin-right: 5px;
-}
+
 .hero-item :not(:last-child)  {
     margin-right: 30px;
 }
@@ -142,6 +139,7 @@ margin-right: 5px;
 }
 .auth-nav {
     display: inline-flex;
+    justify-content: center;
     margin-left: auto;
 }
 .auth-nav:hover {
