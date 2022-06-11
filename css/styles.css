@@ -137,11 +137,8 @@ list-style: none;
 .soc-icon {
     margin-right: 10px;
     align-items: center; 
-    fill: #FFFFFF;
 }
-.soc-icon1 {
-    fill: #FFFFFF;
-}
+
 
 
 .hero-item :not(:last-child)  {
@@ -163,7 +160,7 @@ color: #2196F3;
 
 .soc-icon:hover {
     color:#2196F3;
-    
+     fill: #FFFFFF;    
 }
 
 .header-contact {
