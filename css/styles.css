@@ -141,7 +141,6 @@ list-style: none;
 
 
 .hero-item :not(:last-child)  {
-   
     margin-bottom: 30px;
 }
 
@@ -163,7 +162,6 @@ fill: #2196F3;
     color:#2196F3;
      fill: #FFFFFF;    
 }
-
 .header-contact {
     padding-top: 32px;
     padding-bottom: 32px;
@@ -263,7 +261,7 @@ fill: #2196F3;
 .soc-item {
     width: 44px;
     height: 44px;
-    margin-right: 10px;
+
 }
 
 
