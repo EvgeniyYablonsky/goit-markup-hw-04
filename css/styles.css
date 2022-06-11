@@ -142,7 +142,8 @@ list-style: none;
 
 
 .hero-item :not(:last-child)  {
-    margin-right: 30px;
+   
+    margin-bottom: 30px;
 }
 
 .hero-list :not(:last-child) {
@@ -258,6 +259,8 @@ fill: #2196F3;
 }
 .soc-list  {
     display: inline-flex;
+    padding: 0;
+    
 }
 .soc-item {
     width: 44px;
@@ -351,6 +354,7 @@ fill: #2196F3;
 }
 
 .section-title {
+    margin-top: 0 0 50px 0; 
     font-weight: 700;
     font-size: 36px;
     line-height: 1.16;
