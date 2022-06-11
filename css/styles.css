@@ -138,7 +138,10 @@ list-style: none;
     align-items: center; 
 }
 
-
+.soc-icon1 {
+    align-items: center;
+    margin-right: 10px;
+}
 
 .hero-item :not(:last-child)  {
     margin-bottom: 30px;
