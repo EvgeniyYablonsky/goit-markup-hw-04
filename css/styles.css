@@ -112,6 +112,7 @@ list-style: none;
     height: 80px;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 .header {
     border-bottom: 1px solid #ECECEC; 
@@ -129,12 +130,19 @@ list-style: none;
     margin-right: 50px;
     color: var(---main-btn-color);
     margin-left: 0;
+    justify-content: center;
+    align-items: center;
 
 }
 .soc-icon {
     margin-right: 10px;
     align-items: center; 
+    fill: #FFFFFF;
 }
+.soc-icon1 {
+    fill: #FFFFFF;
+}
+
 
 .hero-item :not(:last-child)  {
     margin-right: 30px;
@@ -144,7 +152,7 @@ list-style: none;
     margin-right: 30px;
 }
 .auth-nav {
-    display: inline-flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     margin-left: auto;
@@ -154,7 +162,7 @@ color: #2196F3;
 }
 
 .soc-icon:hover {
-    background-color:#2196F3;
+    color:#2196F3;
     
 }
 
