@@ -282,7 +282,7 @@ fill: #2196F3;
     border-radius: 50%;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-end;
 }
 .soc-link2 {
     width: 100%;
