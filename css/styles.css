@@ -156,6 +156,7 @@ list-style: none;
 }
 .auth-nav:hover {
 color: #2196F3;
+fill: #2196F3;
 }
 
 .soc-icon:hover {
@@ -342,6 +343,7 @@ color: #2196F3;
 }
 .button-icon2:hover {
     background-color: #E5E5E5;
+    fill: #2196F3;
 }
 
 .hero-btn:hover {
