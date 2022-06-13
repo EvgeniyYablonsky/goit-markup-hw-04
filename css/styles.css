@@ -117,8 +117,6 @@ list-style: none;
 .header {
     border-bottom: 1px solid #ECECEC; 
     display: flex;
-
-
 }
 .header-list {
     display: flex;
@@ -136,6 +134,7 @@ list-style: none;
 }
 .soc-icon:hover {
     align-items: center; 
+
 }
 
 .soc-icon1 {
@@ -157,9 +156,6 @@ list-style: none;
     align-items: center;
     margin-left: auto;
 }
-
-
-
 .soc-icon:hover {
     color:#2196F3;
     fill: #FFFFFF;    
