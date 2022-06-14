@@ -539,6 +539,7 @@ list-style: none;
     letter-spacing: 0.03em;
     color: var(---third-title-color);
     padding: 0;
+    margin-right: 70px;
     }
 .address-list {
     font-family: "Relaway", sans-serif;
