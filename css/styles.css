@@ -103,6 +103,7 @@ list-style: none;
 }
 .header-contact:hover {
     color: var(---second-btn-color);
+    fill: var(---second-btn-color)
 }
 .header-contact:focus {
     color: var(---second-btn-color);
@@ -130,10 +131,6 @@ list-style: none;
     margin-left: 0;
     justify-content: center;
     align-items: center;
-
-}
-.soc-icon:hover {
-    align-items: center; 
 
 }
 
@@ -289,6 +286,7 @@ list-style: none;
 
 .soc-link:hover {
     background-color: var(---second-btn-color);
+    fill: #FFFFFF;
 
 }
 .soc-link:focus {
