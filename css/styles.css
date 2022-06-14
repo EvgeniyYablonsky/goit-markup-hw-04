@@ -144,9 +144,6 @@ list-style: none;
     margin-right: 30px;
 }
 
-.hero-list :not(:last-child) {
-    margin-right: 30px;
-}
 .auth-nav {
     display: flex;
     justify-content: center;
