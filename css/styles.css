@@ -249,7 +249,7 @@ list-style: none;
 .soc-list  {
     display: flex;
     padding: 0;
-    padding-left: 70px;
+    
 }
 .soc-item {
     width: 44px;
