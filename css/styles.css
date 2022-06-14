@@ -335,6 +335,7 @@ list-style: none;
 }
 .button-icon2:hover {
     border: #2196F3;
+    fill: #2196F3;
 }
 
 .hero-btn:hover {
