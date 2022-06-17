@@ -140,7 +140,8 @@ list-style: none;
     margin-right: 10px;
 }
 .soc-icon:hover {
-stroke: #FFFFFF;   
+stroke: #FFFFFF;
+fill: var(---third-title-color)  
 }
 
 .hero-item :not(:last-child)  {
@@ -156,6 +157,7 @@ stroke: #FFFFFF;
 }
 .soc-icon2:hover {
     stroke:#2196F3;
+    fill: var(---second-btn-color);
        
 }
 .header-contact {
