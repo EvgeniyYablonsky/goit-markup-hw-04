@@ -134,14 +134,19 @@ list-style: none;
     align-items: center;
 
 }
-
 .soc-icon1 {
     align-items: center;
     margin-right: 10px;
 }
-.soc-icon:hover {
+.soc-icon {
 stroke: #FFFFFF;
-fill: var(---third-title-color)  
+fill: #FFFFFF;
+}
+.soc-link:hover {
+background-color: #2196F3;
+}
+.soc-link:hover .soc-icon {
+fill: #FFFFFF;
 }
 
 .hero-item :not(:last-child)  {
@@ -287,10 +292,10 @@ fill: var(---third-title-color)
 }
 .soc-link2:hover {
     background-color: #2196F3;
-   
+
 }
 
-.soc-link:hover {
+.soc-link:hover .soc-icon {
     background-color: var(---second-btn-color);
     fill: #FFFFFF;
 
@@ -341,7 +346,7 @@ fill: var(---third-title-color)
     border: 1px solid #AFB1B8;
     border-radius: 4px;
 }
-.button-icon2:hover {
+.button-icon2:hover .soc-icon2 {
     border-color: #2196F3;
     fill: #2196F3;
 }
