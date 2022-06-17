@@ -139,6 +139,9 @@ list-style: none;
     align-items: center;
     margin-right: 10px;
 }
+.soc-icon:hover {
+stroke: #FFFFFF;   
+}
 
 .hero-item :not(:last-child)  {
     margin-bottom: 30px;
