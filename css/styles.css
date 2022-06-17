@@ -154,9 +154,9 @@ stroke: #FFFFFF;
     align-items: center;
     margin-left: auto;
 }
-.soc-icon:hover {
-    color:#2196F3;
-    fill: #FFFFFF;    
+.soc-icon2:hover {
+    fill:#2196F3;
+       
 }
 .header-contact {
     padding-top: 32px;
