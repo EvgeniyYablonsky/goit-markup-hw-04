@@ -347,10 +347,14 @@ fill: #FFFFFF;
     border: 1px solid #AFB1B8;
     border-radius: 4px;
 }
-.button-icon2:hover .soc-icon2 {
-    border-color: #2196F3;
-    stroke: #2196F3;
-    
+.soc-icon2 {
+    fill: #afb1b8;
+}
+.button-icon2:hover .soc-icon2,
+.button-icon2:hover  {
+border-color: #2196F3;
+    fill: #2196F3;
+      
 }
 
 .hero-btn:hover {
