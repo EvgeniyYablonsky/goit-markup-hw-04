@@ -139,11 +139,12 @@ list-style: none;
     margin-right: 10px;
 }
 .soc-icon {
-stroke: #FFFFFF;
-fill: #FFFFFF;
+fill: #afb1b8;
 }
+.soc-link:hover .soc-icon,
 .soc-link:hover {
-background-color: #2196F3;
+    fill: #FFFFFF;
+    background-color: #2196F3;
 }
 .soc-link:hover .soc-icon {
 fill: #FFFFFF;
