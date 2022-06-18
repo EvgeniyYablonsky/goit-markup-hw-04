@@ -161,11 +161,9 @@ fill: #FFFFFF;
     align-items: center;
     margin-left: auto;
 }
-.soc-icon2:hover {
-    stroke:#2196F3;
-    fill: var(---second-btn-color);
+
        
-}
+
 .header-contact {
     padding-top: 32px;
     padding-bottom: 32px;
@@ -351,7 +349,7 @@ fill: #FFFFFF;
     fill: #afb1b8;
 }
 .button-icon2:hover .soc-icon2,
-.button-icon2:hover  {
+.button-icon2:hover {
     fill: #2196F3;
     border-color: #2196F3;
 }
