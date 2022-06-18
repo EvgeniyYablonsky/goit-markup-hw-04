@@ -352,9 +352,11 @@ fill: #FFFFFF;
 }
 .button-icon2:hover .soc-icon2,
 .button-icon2:hover  {
-border-color: #2196F3;
     fill: #2196F3;
-      
+    border-color: #2196F3;
+}
+.button-icon2:hover .soc-icon2{
+    fill: #2196F3;
 }
 
 .hero-btn:hover {
